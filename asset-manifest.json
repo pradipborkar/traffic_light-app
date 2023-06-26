@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/traffic_light-app/static/css/main.5b76e5fc.chunk.css",
+    "main.js": "/traffic_light-app/static/js/main.77680235.chunk.js",
+    "main.js.map": "/traffic_light-app/static/js/main.77680235.chunk.js.map",
+    "runtime-main.js": "/traffic_light-app/static/js/runtime-main.90a78e81.js",
+    "runtime-main.js.map": "/traffic_light-app/static/js/runtime-main.90a78e81.js.map",
+    "static/js/2.7b587676.chunk.js": "/traffic_light-app/static/js/2.7b587676.chunk.js",
+    "static/js/2.7b587676.chunk.js.map": "/traffic_light-app/static/js/2.7b587676.chunk.js.map",
+    "index.html": "/traffic_light-app/index.html",
+    "static/css/main.5b76e5fc.chunk.css.map": "/traffic_light-app/static/css/main.5b76e5fc.chunk.css.map",
+    "static/js/2.7b587676.chunk.js.LICENSE.txt": "/traffic_light-app/static/js/2.7b587676.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90a78e81.js",
+    "static/js/2.7b587676.chunk.js",
+    "static/css/main.5b76e5fc.chunk.css",
+    "static/js/main.77680235.chunk.js"
+  ]
+}
